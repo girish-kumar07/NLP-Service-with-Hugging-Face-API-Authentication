@@ -1,0 +1,20 @@
+2026-08-17 02:29:14,343 | INFO | New user registered: girish@test.com
+2026-08-17 02:30:36,183 | INFO | User logged in: girish@test.com
+2026-08-17 02:31:19,950 | ERROR | Sentiment analysis failed: Network error while calling Hugging Face API: HTTPSConnectionPool(host='api-inference.huggingface.co', port=443): Max retries exceeded with url: /models/distilbert-base-uncased-finetuned-sst-2-english (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001C4EF639FD0>: Failed to resolve 'api-inference.huggingface.co' ([Errno 11001] getaddrinfo failed)"))
+2026-08-17 02:33:20,991 | INFO | User logged out: girish@test.com
+2026-08-17 02:34:14,191 | INFO | User logged in: girish@test.com
+2026-08-17 02:34:39,350 | ERROR | Sentiment analysis failed: Hugging Face API returned an error (status 403): {"error":"This authentication method does not have sufficient permissions to call Inference Providers on behalf of user GirishKumar07"}
+2026-08-17 02:38:01,321 | INFO | User logged out: girish@test.com
+2026-08-17 02:39:06,446 | INFO | User logged in: girish@test.com
+2026-08-17 02:39:26,783 | ERROR | Sentiment analysis failed: Hugging Face API returned an error (status 400): {"error":"Model not supported by provider hf-inference"}
+2026-08-17 02:42:48,070 | INFO | User logged in: girish@test.com
+2026-08-17 02:46:41,685 | INFO | User logged out: girish@test.com
+2026-08-17 02:46:59,325 | INFO | User logged in: girish@test.com
+2026-08-17 02:50:53,527 | INFO | User logged out: girish@test.com
+2026-08-17 03:15:05,911 | INFO | New user registered: pranjalsingh@gmail.com
+2026-08-17 03:15:28,392 | INFO | User logged in: pranjalsingh@gmail.com
+2026-08-17 03:37:00,878 | INFO | New user registered: arunkumar@gmail.com
+2026-08-17 03:37:21,268 | INFO | User logged in: arunkumar@gmail.com
+2026-08-17 03:38:33,541 | INFO | User logged out: arunkumar@gmail.com
+2026-08-17 03:41:56,100 | INFO | User logged in: arunkumar@gmail.com
+2026-08-17 03:43:09,559 | INFO | User logged out: arunkumar@gmail.com

@@ -1,0 +1,3 @@
+nlpcloud
+python-dotenv
+requests
