@@ -21,5 +21,3 @@ A modular Python CLI application integrating Hugging Face's Inference API for se
 - **Database**: SQLite
 - **Libraries**: requests, python-dotenv
 - **Authentication**: PBKDF2-HMAC-SHA256 (hashlib)
-
-## 📁 Project Structure
